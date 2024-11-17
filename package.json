@@ -1,0 +1,22 @@
+{
+  "name": "myownredis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamid17amu/myOwnRedis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamid17amu/myOwnRedis/issues"
+  },
+  "homepage": "https://github.com/hamid17amu/myOwnRedis#readme",
+  "dependencies": {
+    "redis-parser": "^3.0.0"
+  }
+}
